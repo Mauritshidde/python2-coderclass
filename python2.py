@@ -1,5 +1,5 @@
 import random
-woord = ["hottentottententententoonstelling", "aansprakelijkheidswaardevaststellingsveranderingen", "meervoudigepersoonlijkheidsstoornis", "weinig", "klein", "ik", " levensverzekeringsaangelegenheden", "stokbrood", "chocoladetaart", "Kindercarnavalsoptochtvoorbereidingswerkzaamhedencomitéleden", "Lagekostenluchtvaartmaatschappij"]
+woord = ["hottentottententententoonstelling", "aansprakelijkheidswaardevaststellingsveranderingen", "meervoudigepersoonlijkheidsstoornis", "weinig", "klein", "ik", " levensverzekeringsaangelegenheden", "stokbrood", "chocoladetaart", "kindercarnavalsoptochtvoorbereidingswerkzaamhedencomitéleden", "lagekostenluchtvaartmaatschappij"]
 fouten = 0
 gekozenwoord = (random.choice(woord))
 nietmogelijk = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "+", "=", "-", "_", "[", "]", "{", "}", ";", ":", "\\", "|", "`", "~", "'", "."]
